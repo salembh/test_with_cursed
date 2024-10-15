@@ -3,13 +3,28 @@ qiosughdsq
 qsd
 qs
 qsqs
+using namespace std;
+cout << "hello";
+
 let i = 0
 
-qsdqdqsds
 for (i = 1; i <= 10; i++) {
     console.log(i)
-    console.log("sexx")
 }
+t5ayel
+imagine
+ifsijfhuqs
+qsfkoifqsjfop
+qshf
+qso fjq
+sfh qsip
+fh qsi
+hf qsp
+hf
+qsiphisq fp
+hqs fhsqfi ph
+qsfhi
+qsi
 qsdqsdsqd
 
 s
