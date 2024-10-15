@@ -5,9 +5,12 @@ qs
 qsqs
 let i = 0
 
+qsdqdqsds
 for (i = 1; i <= 10; i++) {
     console.log(i)
+    console.log("sexx")
 }
+qsdqsdsqd
 
 s
 qsd
@@ -16,3 +19,9 @@ sqd
 sqdqsd
 qs
 qiosughdsq
+qsdqsdqsdqs
+q
+d
+qsqsdsq
+dqs
+d
